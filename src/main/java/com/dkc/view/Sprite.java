@@ -20,7 +20,7 @@ public class Sprite {
 	 * @param imageName name of sprite's file.
 	 * @throws IOException if file is not found.
 	 */
-	private Sprite(String imageName) throws IOException { setImage(imageName); }
+	public Sprite(String imageName) throws IOException { setImage(imageName); }
 
 	/**
 	 * Constructor for a sprite within a sprite sheet.
