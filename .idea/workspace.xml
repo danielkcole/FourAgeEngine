@@ -9,95 +9,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e337bf12-2cef-4a0c-be47-cf85cb2fa51b" name="Default" comment="Add build instructions for IntelliJ.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/controller/Controller.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/model/GameEngine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/model/IDrawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/model/IMoving.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/model/Model.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/util/ResourceLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/view/InputHandler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/view/InputHandler$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/view/InputHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/view/Sprite.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/FourAgeEngine_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/controller/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-15.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/util/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/view/package-frame.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/controller/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/util/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/view/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/controller/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/model/GameEngine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/model/IDrawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/model/IMoving.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/model/Model.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/util/ResourceLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/view/InputHandler$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/view/InputHandler$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/view/InputHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/view/Sprite.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/controller/Controller.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/controller/Controller.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/controller/package-summary.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/controller/package-summary.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/controller/package-tree.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/controller/package-tree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/GameEngine.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/GameEngine.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/GameObject.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/GameObject.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/IDrawable.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/IDrawable.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/IMoving.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/IMoving.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/Model.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/Model.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/package-summary.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/package-summary.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/model/package-tree.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/model/package-tree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/util/ResourceLoader.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/util/ResourceLoader.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/util/package-summary.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/util/package-summary.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/util/package-tree.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/view/package-tree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/view/InputHandler.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/view/InputHandler.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/view/Sprite.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/view/Sprite.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/view/View.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/view/View.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/view/package-summary.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/view/package-summary.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/com/dkc/view/package-tree.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/util/package-tree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/model/GameObject.class" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/model/GameObject.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/production/FourAgeEngine/com/dkc/view/View.class" afterPath="$PROJECT_DIR$/bin/FourAgeEngine/view/View.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/FourAgeEngine.iml" afterPath="$PROJECT_DIR$/.idea/FourAgeEngine.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/controller/Controller.java" afterPath="$PROJECT_DIR$/src/controller/Controller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/model/GameEngine.java" afterPath="$PROJECT_DIR$/src/model/GameEngine.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/model/GameObject.java" afterPath="$PROJECT_DIR$/src/model/GameObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/model/IDrawable.java" afterPath="$PROJECT_DIR$/src/model/IDrawable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/model/IMoving.java" afterPath="$PROJECT_DIR$/src/model/IMoving.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/model/Model.java" afterPath="$PROJECT_DIR$/src/model/Model.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/util/ResourceLoader.java" afterPath="$PROJECT_DIR$/src/util/ResourceLoader.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/view/InputHandler.java" afterPath="$PROJECT_DIR$/src/view/InputHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/view/Sprite.java" afterPath="$PROJECT_DIR$/src/view/Sprite.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/dkc/view/View.java" afterPath="$PROJECT_DIR$/src/view/View.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/FourAgeEngine_jar/FourAgeEngine.jar" afterPath="$PROJECT_DIR$/bin/artifacts/FourAgeEngine_jar/FourAgeEngine.jar" />
+    <list default="true" id="e337bf12-2cef-4a0c-be47-cf85cb2fa51b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/allclasses-frame.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/constant-values.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/deprecated-list.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/help-doc.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-1.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-10.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-11.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-12.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-13.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-14.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-14.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-2.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-3.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-4.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-5.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-6.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-7.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-8.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-9.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index-files/index-9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/overview-frame.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/overview-summary.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/overview-tree.html" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/artifacts/JavaDoc/package-list" afterPath="$PROJECT_DIR$/bin/artifacts/JavaDoc/package-list" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -303,7 +216,7 @@
       <workItem from="1530027970752" duration="2656000" />
       <workItem from="1530031963014" duration="188000" />
       <workItem from="1530032179414" duration="3236000" />
-      <workItem from="1530037759419" duration="2684000" />
+      <workItem from="1530037759419" duration="2733000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit, source code, .class files and JAR">
       <created>1530030144034</created>
@@ -319,11 +232,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530033545756</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactor packages.">
+      <created>1530040487457</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530040487457</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8764000" />
+    <option name="totallyTimeSpent" value="8813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -366,7 +286,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit, source code, .class files and JAR" />
     <MESSAGE value="Add build instructions for IntelliJ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add build instructions for IntelliJ." />
+    <MESSAGE value="Refactor packages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor packages." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -425,6 +346,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -442,6 +364,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -450,6 +373,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -494,6 +418,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
