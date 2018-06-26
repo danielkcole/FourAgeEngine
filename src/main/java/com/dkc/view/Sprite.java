@@ -6,6 +6,9 @@ import com.dkc.util.ResourceLoader;
 
 import javafx.scene.image.Image;
 
+/**
+ * Holds the image representation of anything in the game.
+ */
 public class Sprite {
 	private Image image;
 	private double height;
