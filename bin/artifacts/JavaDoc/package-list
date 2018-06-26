@@ -1,4 +1,4 @@
-com.dkc.controller
-com.dkc.model
-com.dkc.util
-com.dkc.view
+controller
+model
+util
+view
